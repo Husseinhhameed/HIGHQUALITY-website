@@ -4,7 +4,7 @@ Welcome to the repository for the ALENJAZ company website, an interactive platfo
 
 ## Features
 
-- **AI Chatbot3D library**: Interact with our produnts in AR environment.
+- **3D library**: Interact with our produnts in AR environment.
 - **Responsive Design**: The website is fully responsive and functions well on all devices, ensuring a seamless user experience.
 - **Modern Aesthetics**: Utilizing the latest design trends to create an engaging and professional look suitable for a corporate environment.
 
