@@ -1,6 +1,6 @@
 # HIGHQUALITY Company Website
 
-Welcome to the repository for the ALENJAZ company website, an interactive platform featuring an AI-generated chatbot designed to assist users and enhance their online experience. This website is built using HTML, CSS, and JavaScript, ensuring a responsive and accessible user interface.
+Welcome to the repository for the HighQuality company website, an interactive platform featuring an AI-generated chatbot designed to assist users and enhance their online experience. This website is built using HTML, CSS, and JavaScript, ensuring a responsive and accessible user interface.
 
 ## Features
 
